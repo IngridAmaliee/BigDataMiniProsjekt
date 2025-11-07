@@ -1,0 +1,4 @@
+# Ignorer virtuelle miljøer
+venv/
+.venv/
+env/
